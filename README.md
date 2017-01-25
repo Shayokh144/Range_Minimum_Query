@@ -1,4 +1,4 @@
-This is a simple C++ implementation of Range Minimum Query(RMQ) using Sparse Table . </br>
+This is a simple  and efficient C++ implementation of Range Minimum Query(RMQ) using Sparse Table . </br>
 
 Input : </br></br>
 8  </br>
