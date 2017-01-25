@@ -1,4 +1,4 @@
-This is a simple C++ implementation of Range Minimum Query . </br>
+This is a simple C++ implementation of Range Minimum Query(RMQ) . </br>
 
 Input : </br></br>
 8  </br>
@@ -11,3 +11,6 @@ Here,</br>
 1st line of input is the number of elements . </br>
 2nd line of input is those elements.</br>
 3rd to 5th line of input is the query.</br>
+</br>
+
+[**RMQ tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
